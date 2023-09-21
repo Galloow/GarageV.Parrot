@@ -8,7 +8,7 @@ Une fois l'installation effectué :
 Le serveur local vous permettra d'essayer les quelques pages PHP qui ci-trouve avec des fonctionnalités tel que la connexion/déconnexion du compte admin par exemple
 
 
-J'ai aussi pris l'initiative de rajouter sur mon depot GIT les fichiers au format PDF, j'ai eu des problemes lors de l'upload de ma copie, le fichier etait trop volumineux, j'ai donc inserer des captures d'écran pour montrer que j'avais bien effectuer le travail. Il vous suffira de les télécharger pour voir l'apercu au format pdf.
+J'ai aussi pris l'initiative de rajouter sur mon depot GIT les fichiers au format PDF, j'ai eu des problemes lors de l'upload de ma copie, le fichier était trop volumineux, j'ai donc inseré des captures d'écran pour montrer que j'avais bien effectué le travail. Il suffira de télécharger pour voir l'apercu au format pdf.
 
 Il y a donc :
 la Charte graphique 
