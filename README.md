@@ -7,3 +7,7 @@ Une fois l'installation effectué :
 - Il faudra lancer APACHE et MYSQL qui sont respectivement le serveur et la base de donnée.
 Le serveur local vous permettra d'essayer les quelques pages PHP qui ci-trouve avec des fonctionnalités tel que la connexion/déconnexion du compte admin par exemple
 
+
+J'ai aussi pris l'initiative de rajouter sur mon depot GIT les fichiers au format PDF, j'ai eu des problemes lors de l'upload de ma copie, le fichier etait trop volumineux, j'ai donc inserer des captures d'écran pour montrer que j'avais bien effectuer le travail.
+Il y a donc la Charte graphique au format PDF ainsi que la documentation technique
+
